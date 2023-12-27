@@ -20,6 +20,7 @@
          git clone https://github.com/your-username/student-grade-calculation.git
         
   2.**Open the project in NetBeans IDE 20.**
+  
   3.**Run the application and input marks to calculate total marks, average percentage, and final grades.**
 
 # Contribution Guidelines:
