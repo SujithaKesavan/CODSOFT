@@ -17,7 +17,7 @@
 
   1.**Clone the repository:**
   
-         git clone https://github.com/your-username/student-grade-calculation.git
+         git clone https://github.com/SujithaKesavan/CODSOFT
         
   2.**Open the project in NetBeans IDE 20.**
   
