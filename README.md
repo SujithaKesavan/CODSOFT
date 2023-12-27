@@ -1,4 +1,4 @@
-# CODSOFT
+# STUDENT GRADE CALCULATOR
   Welcome to the Student Grade Calculation repository! This Java project, developed in NetBeans IDE 20, is designed to help students calculate their total marks, average percentage, and corresponding grades based on marks obtained in different subjects.
 
 # Key Features:
